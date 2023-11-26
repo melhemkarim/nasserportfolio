@@ -1,0 +1,82 @@
+
+.main{
+    background-color: #FFF4E0;
+}
+
+.intro{
+    padding-top: 80px;
+}
+
+.intro h1{
+    font-family: 'Lobster', sans-serif;
+font-size: 160px;
+text-align: center;
+padding-bottom: 70px;
+}
+
+.about {
+    text-align: center;
+}
+
+
+.about h4{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: 'Cairo', sans-serif;
+font-family: 'Calistoga', serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-size: 20px;
+font-weight: 700;
+
+}
+
+.pics{
+    padding-top: 30px;
+padding-bottom: 70px;
+}
+
+
+.pics img{
+    width: 600px;
+    height: 700px;
+    padding-top: 20px;
+}
+
+.pics h1{
+    font-size: 80px;
+}
+
+
+.navbar{
+    margin-bottom: 50px;
+}
+
+.navbar img{
+    margin-top: 20px;
+}
+
+
+.card-body h2,p{
+    color: #000;
+}
+
+.card-body h2{
+    padding: 20px;
+}
+
+.card-body a {
+    font-size: 3rem;
+    width: 5rem;
+    height: 5rem;
+    text-decoration: none;
+    color: inherit;
+    }
+    .card-body a :hover{
+        font-size: 3.2rem;
+        color: #f7a000;
+    }
+.card-body i{
+    padding-bottom: 70px;
+    padding-top: 40px;
+
+}
